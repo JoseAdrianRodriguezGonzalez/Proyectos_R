@@ -9,3 +9,5 @@
 >
 >Por ende, el código se le pueden generar más rigurosos analisis
 >
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
