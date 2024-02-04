@@ -4,7 +4,7 @@
 
 
 >[!IMPORTANT]
->Este código se realizo por @JoseAdrianRodriguezGonzalez y @Isa-Rocha31415, sin su apoyo, el proyecto no se hubiera podido realizar.
+>Este código se realizo por @github/JoseAdrianRodriguezGonzalez y @github/Isa-Rocha31415, sin su apoyo, el proyecto no se hubiera podido realizar.
 
 >[!NOTE]
 >El proyecto se basa en 10 preguntas de análisis estádistico básico, en el que de manera seccionada se encuentra el código, a su vez, encontrará la base de datos de importaciones y exportaciones
