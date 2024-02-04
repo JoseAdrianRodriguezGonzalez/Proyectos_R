@@ -4,7 +4,7 @@
 
 
 >[!IMPORTANT]
->Este código se realizo por @github/JoseAdrianRodriguezGonzalez y @github/Isa-Rocha31415, sin su apoyo, el proyecto no se hubiera podido realizar.
+>Este código se realizo por @github.com/JoseAdrianRodriguezGonzalez y @github.com/Isa-Rocha31415, sin su apoyo, el proyecto no se hubiera podido realizar.
 
 
 >[!NOTE]
