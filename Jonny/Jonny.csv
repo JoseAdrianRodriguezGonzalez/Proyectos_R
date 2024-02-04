@@ -1,0 +1,13 @@
+Example,Shape,Crust-Size,Crust-Shade,Filling-Size,Filling-Shade,Class
+ex1,Circle,Thick,Gray,Thick,Dark,pos
+ex2,Circle,Thick,White,Thick,Dark,pos
+ex3,Triangle,Thick,Dark,Thick,Gray,pos
+ex4,Circle,Thin,White,Thin,Dark,pos
+ex5,Square,Thick,Dark,Thin,White,pos
+ex6,Circle,Thick,White,Thin,Dark,pos
+ex7,Circle,Thick,Gray,Thick,White,neg
+ex8,Square,Thick,White,Thick,Gray,neg
+ex9,Triangle,Thin,Gray,Thin,Dark,neg
+ex10,Circle,Thick,Dark,Thick,White,neg
+ex11,Square,Thick,White,Thick,Dark,neg
+ex12,Triangle,Thick,White,Thick,Gray,neg
