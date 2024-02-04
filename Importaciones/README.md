@@ -4,7 +4,7 @@
 
 
 >[!IMPORTANT]
->Este código se realizo por @Isa-Rocha31415, sin su apoyo, el proyecto no se hubiera podido realizar.
+>Este código se realizo por los usuarios @Isa-Rocha31415 y @JoseAdrianRodriguezGonzalez, sin su apoyo, el proyecto no se hubiera podido realizar.
 
 
 >[!NOTE]
