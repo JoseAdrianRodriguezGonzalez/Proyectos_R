@@ -13,5 +13,5 @@
 >[!TIP]
 >El proyecto preenta su base de datos y el PDF con los respectivos gráficos de cada pregunta que en total son 10 que responde y permiten generar conclusiones acertadas del metro.
 
-[!IMPORTANT]
+>[!IMPORTANT]
 >Este proyecto fue realizado por los usuarios @JoseAdrianRodriguezGonzalez y @Isa-Rocha31415, que permitieron dar el primer paso para este proyecto que es escalable
